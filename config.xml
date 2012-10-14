@@ -5,6 +5,9 @@
     version   = "1.0.0">
 
 <name>FSM</name>
+<icon src="icon.png" />
+<gap:splash src="splash.png" />
+
 
 <description>
 Mobile Work Orders and Invoicing
