@@ -4,7 +4,7 @@
     id        = "com.tsp.fsm"
     version   = "1.0.0">
 
-<name>Field Service Manager</name>
+<name>FSM</name>
 
 <description>
 Mobile Work Orders and Invoicing
